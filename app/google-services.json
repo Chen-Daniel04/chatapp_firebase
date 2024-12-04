@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522543887891",
+    "project_id": "chatty-6e458",
+    "storage_bucket": "chatty-6e458.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522543887891:android:20d830f4bee4135225b1e6",
+        "android_client_info": {
+          "package_name": "com.example.thapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522543887891-a9horhpp9ihfdr006i4vt4vp8hc8inoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwOzCi36RqMHaeRy7ljXUyBuDnY3qGwVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522543887891-a9horhpp9ihfdr006i4vt4vp8hc8inoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
